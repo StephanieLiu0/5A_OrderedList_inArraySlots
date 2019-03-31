@@ -30,7 +30,7 @@ public class UserOfOrderedList{
 	System.out.println(orderedList.get(5)); // expecting 22
 			   
 
-	// remove(value)
+	// remove values from list
    	System.out.println("removed "
 			   + orderedList.remove(0)
 			   + ": "
